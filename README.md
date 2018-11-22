@@ -5,9 +5,8 @@
 ```
 brew install python3
 python3 get-pip.py
-
 ```
 ## 安装flask框架
 ```
-pip install flask
+pip install Flask
 ```
